@@ -1,0 +1,26 @@
+#Objects/Object_Details.md
+
+Banquet Hall Object:
+- Customer Name
+- Booking Date
+- Timings
+- Food Menu
+- No of Visitors
+- Archestra (Checkbox)
+- Magician (Checkbox)
+- Shehnai and Mridangam (Checkbox)
+- Kolatam (Checkbox)
+
+Billing Object:
+- Billing No (Auto Number)
+- Customer Name (Master-Detail)
+- Archestra Amount (Formula)
+- Magician Amount (Formula)
+- Shehnai Amount (Formula)
+- Kolatam Amount (Formula)
+- Food Amount per Plate (Formula)
+- Food Amount (Formula)
+- Total Amount (Formula)
+
+Staff Object:
+- Staff Name
