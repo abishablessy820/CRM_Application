@@ -1,0 +1,14 @@
+#Flow/Booking_Availability_Flow.md
+
+Flow Name: Banquet Hall Booking Availability Checking
+
+Type: Record Triggered Flow (Before Save)
+
+Logic:
+- Trigger when Banquet Hall record is created
+- Get records with same Booking Date and Timings
+- If duplicate exists → show error message
+- Prevent duplicate booking
+
+Outcome:
+Ensures no two bookings have same date and time
