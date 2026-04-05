@@ -1,0 +1,16 @@
+#Reports/Report_Details.md
+
+Report Name: Banquet Halls with Billings Report
+
+Report Type:
+Banquet Halls with Billings
+
+Grouped By:
+Booking Date
+
+Columns:
+- Timings
+- Total Amount
+
+Purpose:
+To view all bookings along with billing details
