@@ -1,0 +1,14 @@
+#Documentation/Project_Explanation.md
+
+This project is designed to automate banquet hall booking management.
+
+Key Functionalities:
+1. Prevent duplicate bookings using Flow
+2. Automatically create billing records using Apex Trigger
+3. Calculate total billing using formula fields
+4. Generate reports for analysis
+
+Benefits:
+- Reduces manual work
+- Improves data accuracy
+- Provides real-time insights
